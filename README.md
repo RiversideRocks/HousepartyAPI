@@ -33,3 +33,9 @@ Stop calling a user (POST)
 Details about the authenticated user (based on the auth header)
 
 /me
+
+# me/relationships
+
+Friends of the authenicated user.
+
+/me/relationships
