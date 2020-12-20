@@ -25,3 +25,11 @@ Call a user (POST)
 Stop calling a user (POST)
 
 /users/ID/abort_call
+
+
+
+### me
+
+Details about the authenticated user (based on the auth header)
+
+/me
