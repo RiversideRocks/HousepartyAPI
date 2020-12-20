@@ -18,3 +18,10 @@ Greets a user (POST)
 Call a user (POST)
 
 /users/ID/start_call
+
+
+### abort_call
+
+Stop calling a user (POST)
+
+/users/ID/abort_call
