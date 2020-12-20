@@ -30,12 +30,16 @@ Stop calling a user (POST)
 
 ### me
 
-Details about the authenticated user (based on the auth header)
+Details about the authenticated user (based on the auth header) (GET)
 
 /me
 
 # me/relationships
 
-Friends of the authenicated user.
+Friends of the authenicated user. (GET)
 
 /me/relationships
+
+# me/suggestions
+
+Who HP wants you to be friends with (GET)
